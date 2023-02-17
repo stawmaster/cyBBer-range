@@ -7,7 +7,7 @@
 ###### install nvm
 [Download nvm](https://github.com/coreybutler/nvm-windows/releases)
 ###### install nodejs
-`nvm install 18.14.0  or nvm install lts`
+`nvm install 18.14.0` or `nvm install lts`
 
 
 #### Django
