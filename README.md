@@ -27,12 +27,14 @@ npm install @material-ui/icons
 ```
 
 #### VSCode addons
-django
-react es7
-javascript es6
-
+* django
+* react es7
+* javascript es6
+* prettier
 
 
 ## Start app
-`python .\manage.py runserver`
-`npm run dev`
+```
+python .\manage.py runserver
+npm run dev
+```
